@@ -13,7 +13,7 @@ const Feature = () => {
 							<svg
 								fill='none'
 								stroke='currentColor'
-								stroke-linecap='round'
+								strokeLinecap='round'
 								stroke-linejoin='round'
 								stroke-width='2'
 								className='w-6 h-6'
@@ -37,7 +37,7 @@ const Feature = () => {
 								<svg
 									fill='none'
 									stroke='currentColor'
-									stroke-linecap='round'
+									strokeLinecap='round'
 									stroke-linejoin='round'
 									stroke-width='2'
 									className='w-4 h-4 ml-2'
@@ -53,7 +53,7 @@ const Feature = () => {
 							<svg
 								fill='none'
 								stroke='currentColor'
-								stroke-linecap='round'
+								strokeLinecap='round'
 								stroke-linejoin='round'
 								stroke-width='2'
 								className='w-6 h-6'
@@ -79,7 +79,7 @@ const Feature = () => {
 								<svg
 									fill='none'
 									stroke='currentColor'
-									stroke-linecap='round'
+									strokeLinecap='round'
 									stroke-linejoin='round'
 									stroke-width='2'
 									className='w-4 h-4 ml-2'
@@ -95,7 +95,7 @@ const Feature = () => {
 							<svg
 								fill='none'
 								stroke='currentColor'
-								stroke-linecap='round'
+								strokeLinecap='round'
 								stroke-linejoin='round'
 								stroke-width='2'
 								className='w-6 h-6'
@@ -120,7 +120,7 @@ const Feature = () => {
 								<svg
 									fill='none'
 									stroke='currentColor'
-									stroke-linecap='round'
+									strokeLinecap='round'
 									stroke-linejoin='round'
 									stroke-width='2'
 									className='w-4 h-4 ml-2'
